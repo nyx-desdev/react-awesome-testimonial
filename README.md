@@ -19,10 +19,17 @@ npm i react-awesome-testimonial
 import AwesomeTestimonial from 'react-awesome-testimonial';
 
 const app = (
-  <AwesomeSlider
+  <AwesomeTestimonial
     testimonials={[
         {
             name: "Abigail",
+            company: "Netflix",
+            img_src: "image-url",
+            review:
+            "Review Text",
+        },
+        {
+            name: "Abigail 2",
             company: "Netflix",
             img_src: "image-url",
             review:

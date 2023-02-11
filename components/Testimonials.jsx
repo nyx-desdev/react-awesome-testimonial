@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import LeftArrowIcon from "./icons/red_arrow_left.svg";
 import RightArrowIcon from "./icons/red_arrow_right.svg";
-import TestimonialsTop from "./TestimonialsTop.js";
-import TestimonialsBottom from "./TestimonialsBottom.js";
+import TestimonialsTop from "./TestimonialsTop";
+import TestimonialsBottom from "./TestimonialsBottom";
 import "./styles/Testimonials.css";
 
 const Testimonials = (props) => {

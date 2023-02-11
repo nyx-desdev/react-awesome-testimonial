@@ -1,0 +1,16 @@
+{
+  "name": "react-awesome-testimonial",
+  "version": "1.0.0",
+  "description": "React testimonial component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react testimonials",
+    "testimonials",
+    "react-awesome-testimonial"
+  ],
+  "author": "Nikhil Arya",
+  "license": "MIT"
+}

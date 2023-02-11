@@ -1,3 +1,3 @@
-import AwesomeTestimonial from "./components/Testimonials.js";
+import AwesomeTestimonial from "./components/Testimonials";
 
 export default AwesomeTestimonial;

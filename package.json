@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-testimonial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React testimonial component",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,20 @@
     "react-awesome-testimonial"
   ],
   "author": "Nikhil Arya",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyx-desdev/react-awesome-testimonial"
+  },
+  "bugs": {
+    "url": "https://github.com/nyx-desdev/react-awesome-testimonial/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "main"
+    ]
+  },
+  "homepage": "https://github.com/nyx-desdev/react-awesome-testimonial",
+  "type": "module"
 }
